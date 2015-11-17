@@ -1,0 +1,9 @@
+name: TabPrefixes
+main: com.enderdevs.tabprefixes.TabPrefixes
+author: Dillan
+version: 1.0
+depend: [Vault]
+description: Prefixes in your tablist!
+commands:
+  tabreload:
+    description: Reload the Plugin.
